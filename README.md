@@ -1,6 +1,6 @@
 ### API Tennis players
 
-Sur port 8080/tennis :
+On the "/tennis" endpoint :
 
 * /getAllPlayers => return all the players sorted by descending rank.
 * /getPlayerById/{id} => return the player with the provided id
